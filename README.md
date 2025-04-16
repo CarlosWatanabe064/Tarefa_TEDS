@@ -1,6 +1,7 @@
 # Tarefas referentes à matéria Tecnologias de Construção de Software
 
 LAB01 - Sistema CRUD criado por Carlos Eduardo Watanabe Nunes para gerenciamento de alunos de uma escola de programação chamada DevTech Academy.
+
 LAB02 - Sistema CRUD criado por Carlos Eduardo Watanabe Nunes para gestão de funcionários em uma Startup de Tecnologia.
 
 ## Pré-requisitos
