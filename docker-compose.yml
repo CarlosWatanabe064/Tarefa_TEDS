@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "5500:5500"
+    volumes:
+      - ./LAB01:/usr/share/nginx/html/lab01
+      - ./LAB02:/usr/share/nginx/html/lab02
+    restart: unless-stopped
