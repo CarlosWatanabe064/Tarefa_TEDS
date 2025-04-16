@@ -15,5 +15,5 @@ LAB02 - Sistema CRUD criado por Carlos Eduardo Watanabe Nunes para gestão de fu
 
 docker-compose up --build
 
-3. O docker subirá o container e você poderá acessar as aplicações em http://localhost:5500 
+3. O docker subirá o container e você poderá acessar as aplicações em "http://localhost:5500"
 4. Utilize /index.html de um dos dois arquivos (LAB01 ou LAB02) para selecionar qual o exercício que você deseja visualizar
